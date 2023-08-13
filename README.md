@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://" target="_blank">Ivan</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<h3 align="center">🄸🄾🅂 🄳🄴🅅🄴🄻🄾🄿🄴🅁, 𝕗𝕣𝕠𝕞 𝕊𝕒𝕚𝕟𝕥-ℙ𝕖𝕥𝕖𝕣𝕤𝕓𝕦𝕣𝕘 - ℝ𝕦𝕤𝕤𝕚𝕒 🇷🇺</h3>
+
 
 <!--
 **Ivan-Biriukov/Ivan-Biriukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
