@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://" target="_blank">Ivan Biriukov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">🄸🄾🅂 🄳🄴🅅🄴🄻🄾🄿🄴🅁, 𝕗𝕣𝕠𝕞 𝕊𝕒𝕚𝕟𝕥-ℙ𝕖𝕥𝕖𝕣𝕤𝕓𝕦𝕣𝕘 - ℝ𝕦𝕤𝕤𝕚𝕒 🇷🇺</h3>
-
 ![](https://komarev.com/ghpvc/?username=Ivan-Biriukov) 
 ![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square)
 ![Platforms](https://img.shields.io/badge/Platforms-iOS-yellowgreen?style=flat-square)
@@ -11,6 +9,12 @@
 ![UI](https://img.shields.io/badge/UI-Storyboard_Xib_Code-yellowgreen?style=flat-square)
 ![Frameworks&Libraries](https://img.shields.io/badge/Frameworks&Libraries-Foundation_|_UIKit_|_CoreData_|_ARKit_|_CoreML_|_Alamofire_and_others-yellowgreen?style=flat-square)
 ![I can communicate](https://img.shields.io/badge/I_can_communicate:-Russian_|_English_|_German-orange?style=flat-square)
+
+<h3 align="center">🄸🄾🅂 🄳🄴🅅🄴🄻🄾🄿🄴🅁, 𝕗𝕣𝕠𝕞 𝕊𝕒𝕚𝕟𝕥-ℙ𝕖𝕥𝕖𝕣𝕤𝕓𝕦𝕣𝕘 - ℝ𝕦𝕤𝕤𝕚𝕒 🇷🇺</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C54CF7&multiline=true&width=650&height=120&lines=I've+been+learning+and+developing+on+iOS+since+2022.++;At+the+moment+I+am+in+active+search+of+work+%2F+projects;for+cooperation+on+a+commercial+(not+only)+basis." alt="Typing SVG" /></a>
+
+<h1 align="center"> 【﻿ＧｉｔＨｕｂ　ｐｒｏｆｉｌｅ　ｓｔａｔｓ】</h1>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ivan-Biriukov&margin-w=15&margin-h=15&&margin-w=15&title=Commits,PullRequest,Repositories&theme=onedark&column=3)
 
