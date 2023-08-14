@@ -3,7 +3,13 @@
 
 <h3 align="center">🄸🄾🅂 🄳🄴🅅🄴🄻🄾🄿🄴🅁, 𝕗𝕣𝕠𝕞 𝕊𝕒𝕚𝕟𝕥-ℙ𝕖𝕥𝕖𝕣𝕤𝕓𝕦𝕣𝕘 - ℝ𝕦𝕤𝕤𝕚𝕒 🇷🇺</h3>
 
-![](https://komarev.com/ghpvc/?username=Ivan-Biriukov)
+![](https://komarev.com/ghpvc/?username=Ivan-Biriukov) 
+![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square)
+![Platforms](https://img.shields.io/badge/Platforms-iOS-yellowgreen?style=flat-square)
+![Git](https://img.shields.io/badge/Git-Terminal_Xcode_Fork-yellowgreen?style=flat-square)
+![Data Storage](https://img.shields.io/badge/Data_Storage-UserDefaults_Keychain_CoreData_Realm_FireStore-yellowgreen?style=flat-square)
+![UI](https://img.shields.io/badge/UI-Storyboard_Xib_Code-yellowgreen?style=flat-square)
+![Frameworks&Libraries](https://img.shields.io/badge/Frameworks&Libraries-UIKit-yellowgreen?style=flat-square)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ivan-Biriukov&margin-w=15&margin-h=15&&margin-w=15&title=Commits,PullRequest,Repositories&theme=onedark&column=3)
 
