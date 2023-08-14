@@ -16,14 +16,15 @@
 
 <h1 align="center"> 【﻿ＧｉｔＨｕｂ　ｐｒｏｆｉｌｅ　ｓｔａｔｓ】</h1>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Biriukov&theme=great-gatsby)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Ivan-Biriukov&margin-w=15&margin-h=15&&margin-w=15&title=Commits,PullRequest,Repositories&theme=onedark&column=3)
 
 
+&emsp; &emsp; &emsp;![trophy](https://github-profile-trophy.vercel.app/?username=Ivan-Biriukov&margin-w=15&margin-h=15&&margin-w=15&title=Commits,PullRequest,Repositories&theme=onedark&column=3) 
+&emsp; &emsp; &emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Biriukov&layout=compact&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Biriukov&layout=compact&theme=dark)
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Biriukov&theme=great-gatsby)
+
 
 
 <!--
