@@ -12,7 +12,7 @@
 
 <h3 align="center">🄸🄾🅂 🄳🄴🅅🄴🄻🄾🄿🄴🅁, 𝕗𝕣𝕠𝕞 𝕊𝕒𝕚𝕟𝕥-ℙ𝕖𝕥𝕖𝕣𝕤𝕓𝕦𝕣𝕘 - ℝ𝕦𝕤𝕤𝕚𝕒 🇷🇺</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C54CF7&multiline=true&width=650&height=120&lines=I've+been+learning+and+developing+on+iOS+since+2021.++;At+the+moment+I+am+in+active+search+of+work+%2F+projects;for+cooperation+on+a+commercial+(not+only)+basis." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C54CF7&multiline=true&width=650&height=120&lines=I've+been+learning+and+developing+on+iOS+since+2019.++;At+the+moment+I+am+in+active+search+of+work+%2F+projects;for+cooperation+on+a+commercial+(not+only)+basis." alt="Typing SVG" /></a>
 
 <h1 align="center"> 【﻿ＧｉｔＨｕｂ　ｐｒｏｆｉｌｅ　ｓｔａｔｓ】</h1>
 
